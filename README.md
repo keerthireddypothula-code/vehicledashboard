@@ -45,7 +45,7 @@ A real-time vehicle dashboard simulator built with Python and Tkinter. This desk
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Utteja21/Vehicle-Dashboard.git
+git clone https://github.com/keerthireddypothula-code/vehicledashboard
 cd Vehicle-Dashboard
 ```
 
@@ -119,6 +119,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
 
-**Utteja21** — [GitHub Profile](https://github.com/Utteja21)
